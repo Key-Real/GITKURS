@@ -1,1 +1,3 @@
-fdgdfgdfygfdf
+Hallo World form GIT Kurs, 
+
+now we are able to use GIT :)
