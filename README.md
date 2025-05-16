@@ -1,1 +1,1 @@
-# GITKURS
+Hallo, willkommen zum GIT Kurs
